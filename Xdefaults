@@ -1,0 +1,24 @@
+URxvt.depth: 32
+URxvt.background: [85]black
+URxvt.foreground: #ffffff
+URxvt.jumpScroll: true
+URxvt.skipScroll: true
+URxvt.fading: 10
+!!URxvt.font: xft:M+ 1mn:style=heavy:size=9, xft:Unifont:size=9
+urxvt*font:     xft:Terminus:pixelsize=14:antialias=false
+URxvt.urgentOnBell: true
+URxvt.scrollBar: false
+URxvt.scrollTtyOutput: false
+URxvt.scrollTtyKeypress: true
+URxvt.saveLines: 4096
+URxvt.pastableTabs: true
+URxvt.boldMode: false
+Xft.antialias: true
+Xft.dpi: 96
+
+Xft.hinting: true
+Xft.hintstyle: hintfull
+Xft.autohint: 0
+
+Xft.rgba: rgb
+Xft.lcdfilter: lcddefault
